@@ -28,7 +28,7 @@ We have been tasked with determining what employees of Pewlett Hackards are clos
 
 - The mentorship-eligibility table is much longer for two reasons. First the table is broken down to list each employee that meets the requirements, and second the table is meant for only those who are close to but not at retirement 
 
--With the mentorship-eligibility table listing more than 1500 employees, Pewlett Hackard can create and implement at vast and well staffed mentorship program to ensure the company is prepared for the  “silver tsunami” 
+- With the mentorship-eligibility table listing more than 1500 employees, Pewlett Hackard can create and implement at vast and well staffed mentorship program to ensure the company is prepared for the  “silver tsunami” 
 
 <body>
   
